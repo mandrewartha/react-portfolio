@@ -1,0 +1,15 @@
+.cards {
+    /* width: 50%; */
+    margin: 20px;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+}
+
+.card-title {
+    font-size: 30px;
+}
+
+.card-lang {
+    font-size: 20px;
+}

@@ -1,0 +1,17 @@
+.profile-pic{
+    height: 250px;
+border-radius: 150px;
+}
+
+.profile {
+    display: inline;
+    flex-wrap: wrap;
+    margin: 10px;
+}
+
+#name {
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin: 20px;
+    justify-content: center;
+    align-self:center;
+}
