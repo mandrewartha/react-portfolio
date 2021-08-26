@@ -8,6 +8,6 @@ This single page portfolio was dynamically created using ReactJS. It displays 6 
 ![image](https://user-images.githubusercontent.com/84876493/130882462-ea88c3fd-6f8b-4268-a73e-71905bfa04c2.png)
 
 ## Links
-This app is deployed at:
+This app is deployed at: https://mandrewartha.github.io/react-portfolio/
 
 It is hosted on heroku at: https://ma-react-portfolio.herokuapp.com/
