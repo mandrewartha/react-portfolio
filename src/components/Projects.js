@@ -15,9 +15,9 @@ const Projects = () => {
         {
             link:"https://there-and-back-again-front.herokuapp.com/",
             image: "https://user-images.githubusercontent.com/84876493/132051995-7ef52646-a72d-46a7-a6e0-7510da2d612a.png",
-            title:"There and Back Again",
+            title:"There & Back Again",
             languages: "JavaScript,MongoDB, Express.JS",
-            description: "A site that allows you to create custom decks to play a card game."
+            description: "Log activity to go on a fictional journey."
         },
       
         {
