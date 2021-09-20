@@ -12,13 +12,6 @@ const Projects = () => {
             languages: "JavaScript,Handlebars.js,MySQL",
             description: "Research dog breeds and take a fun quiz to find pets for adoption in your area!"
         },
-        {
-            link:"https://there-and-back-again-front.herokuapp.com/",
-            image: "https://user-images.githubusercontent.com/84876493/132051995-7ef52646-a72d-46a7-a6e0-7510da2d612a.png",
-            title:"There & Back Again",
-            languages: "JavaScript,MongoDB, Express.JS",
-            description: "Log activity to go on a fictional journey."
-        },
       
         {
             link:"https://mandrewartha.github.io/work-day-scheduler/",
@@ -40,6 +33,13 @@ const Projects = () => {
             title:"Budget Tracker",
             languages: "PWA,JavaScript,HTML,CSS",
             description: "Keep track of your budget and expenses, even offline!"
+        },
+        {
+            link:"https://there-and-back-again-front.herokuapp.com/",
+            image: "https://user-images.githubusercontent.com/84876493/132051995-7ef52646-a72d-46a7-a6e0-7510da2d612a.png",
+            title:"There & Back Again",
+            languages: "JavaScript,MongoDB, Express.JS",
+            description: "Log activity to go on a fictional journey."
         },
         {
             link:"https://fitness-tracking-ma.herokuapp.com/",
