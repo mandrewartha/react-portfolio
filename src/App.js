@@ -25,7 +25,13 @@ function App() {
               <Link className="links" to="/">About Me</Link>
               <Link className="links" to="/Projects">Projects</Link>
               <Link className="links" to="/Contact">Contact</Link>
-              <Link className="links" to="https://drive.google.com/file/d/15BQkaZ7LDausDRZ2HK_1TCpFxSw9JHGr/view" target="_blank">Resume</Link>
+              {/* <Link className="links" href="https://drive.google.com/file/d/15BQkaZ7LDausDRZ2HK_1TCpFxSw9JHGr/view" target="_blank">Resume</Link> */}
+              <ul class="navbar-nav">
+            <li className="links">
+              <a class="nav-link active" aria-current="page"
+                href="https://drive.google.com/file/d/15BQkaZ7LDausDRZ2HK_1TCpFxSw9JHGr/view" target="_blank">Resume</a>
+            </li>
+            </ul>
             </Nav>
 
           </Navbar>

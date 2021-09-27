@@ -22,7 +22,18 @@
   margin: 15px;
   color: black;
   font-size: 18px;
+  display: flex;
+  justify-content: center;
+    align-items: center;
+}
 
+.nav-link {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: black;
+  font-size: 18px;
+  text-decoration: underline;
 }
 
 .body {
