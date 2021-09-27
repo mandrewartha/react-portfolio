@@ -25,3 +25,12 @@ input {
     justify-content: center;
     align-self: center;
 }
+
+.contact-info {
+    font-size: 15 px;
+    margin-top: 20 px;
+    display: flex;
+    justify-content: center;
+    align-self: center;
+    margin: auto;
+}

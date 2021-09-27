@@ -51,11 +51,12 @@ const ContactForm = (props) => {
 
 return (
     <div >
+       
         <form onSubmit={submitHandler}>
             <div className="form">
                 <div>
                     {/* <label>Name</label> */}
-                    <input type="text" placeholder="Name" value={enteredName} onChange={enteredNameHandler}/>
+                    <input type="text" placeholder="name" value={enteredName} onChange={enteredNameHandler}/>
                 </div>
                 <div>
                     {/* <label>Email</label> */}
@@ -70,12 +71,17 @@ return (
             <button type="submit" className="btn btn-secondary">Submit</button>
             </div>
         </form>
+        <div className="contact-info">
+            <p>214-298-7161   |   megandrew1918@gmail.com</p>
+  
+        </div>
         {errorMessage && (
         <div>
           <p className="error-text">{errorMessage}</p>
         </div>
       )}
     </div>
+  
     
 )
 
